@@ -95,4 +95,4 @@ if __name__ == '__main__':
     sql.show_list()
     sql.get_elem(4)
     b = sql.get_location(3)
-    print a, b
+    print b
